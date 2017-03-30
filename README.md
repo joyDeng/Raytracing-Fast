@@ -1,5 +1,5 @@
 # Raytracing-Fast
-Assignment on Computer Graphic Class. 
+This is an assignment on Computer Graphic Class. 
 The code is based on Dirt basecode of Dartmouth Visual Computing Lab.
 Based on the dirt-base code.
 I wrote the shader and raytracing part.
